@@ -1,3 +1,4 @@
+//my name is Eric Kuo
 #include <iostream>
 using namespace std;
 //#define __DEBUG
