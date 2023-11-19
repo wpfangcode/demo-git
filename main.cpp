@@ -2,7 +2,7 @@
 using namespace std;
 //#define __DEBUG
 
-int main()
+int main()    /////test
 {
  
   int x=5;
