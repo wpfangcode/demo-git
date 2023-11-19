@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//#define __DEBUG
+#define __DEBUG
 
 int main()
 {
